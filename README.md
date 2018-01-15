@@ -1,2 +1,2 @@
 # electronApp
-A Desktop App usnig Electron
+A Desktop App using Electron
