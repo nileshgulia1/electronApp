@@ -1,0 +1,12 @@
+{
+  "name": "electronApp",
+  "version": "1.0.0",
+  "description": "Electron App",
+  "main": "main.js",
+  "repository": "https://github.com/nileshgulia1/electronApp.git",
+  "author": "Nilesh",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.10"
+  }
+}
